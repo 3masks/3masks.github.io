@@ -1,6 +1,6 @@
 @font-face {
   font-family: Fancy;
-  src: url(/f/9516.ttf); }
+  src: url(/f/a842.ttf) format(truetype), url(/f/3bd3.woff) format(woff); }
 
 .stripe {
   padding: 20px;
